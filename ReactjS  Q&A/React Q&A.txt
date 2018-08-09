@@ -1,0 +1,13 @@
+Q1 : 	What is Reactjs?
+Ans: 	React is a front-end library developed by Facebook. 
+		It is used for handling the view layer for web and mobile apps. 
+		ReactJS allows us to create reusable UI components. 
+		It is currently one of the most popular JavaScript libraries
+
+Q2 : 	What are the featurers of ReactJs?
+Ans: 	1.JSX : it is a JavaScript Syntax Extension.
+		2.Components: React is all about components.This will help to owr code
+			working large scale projects.
+		3.Unidirectional data flow and Flux: React implements one-way data flow which makes it easy to reason about your app. 
+		  Flux is a pattern that helps keeping your data unidirectional.
+		
